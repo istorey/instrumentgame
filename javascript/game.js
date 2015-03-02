@@ -14,3 +14,5 @@ $(document).ready(function() {
     if (Game.over) {
       return
     }
+
+    renderBG()
