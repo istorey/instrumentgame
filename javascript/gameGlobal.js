@@ -4,6 +4,6 @@ var Game = (function() {
       heroIcon = new HeroIcon({
           x:300,
           y:300,
-          image:"images/heroShip.png",
+          image:"images/hero.png",
           speed: 4
         }),
