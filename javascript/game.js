@@ -130,7 +130,7 @@ $(document).ready(function() {
     Game.ctx.font = "24px Helvetica";
     Game.ctx.textAlign = "left";
     Game.ctx.textBaseline = "top";
-    Game.ctx.fillText("Paint with Space, A, S, D, W, and E Keys | Coins: " + Game.coinsCollected, 32, 32);
+    Game.ctx.fillText("Move with arrow keys, Paint with Space, A, S, D, W, and E Keys | Coins: " + Game.coinsCollected, 32, 32);
   }
 
   //// \end Update Canvas Functions
